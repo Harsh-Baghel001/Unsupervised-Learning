@@ -10,3 +10,5 @@
 "Bank Customer Segmentation: Data-Driven Insights for Personalized Banking"[Open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/Bank%20Customer%20Segmentation.ipynb)
 
 "Book Recommendation System: Personalized Reading Suggestions Using Machine Learning"[Open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/book-recomendation-system.ipynb)
+
+"Customer Segmentation in Online Retail: RFM Analysis & Clustering for Data-Driven Insights"[Open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/Online_Retail.ipynb)

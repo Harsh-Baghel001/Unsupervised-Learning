@@ -7,3 +7,6 @@
 
 "Unveiling Global Socioeconomic Patterns: Clustering Analysis of Key Indicators"[open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/Country%20Profiling.ipynb)
 
+"Bank Customer Segmentation: Data-Driven Insights for Personalized Banking"[Open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/Bank%20Customer%20Segmentation.ipynb)
+
+"Book Recommendation System: Personalized Reading Suggestions Using Machine Learning"[Open](https://github.com/Harsh-Baghel001/Unsupervised-Learning/blob/main/book-recomendation-system.ipynb)
